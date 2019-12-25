@@ -22,4 +22,4 @@ This is a repository which contains the code regarding concepts of OpenGL render
 	  2. Loading Variables in Shaders
 	  3. Renderer-Shader workflow
 
-In order to know how to setup the project refer this [link]:https://learnopengl.com/Getting-started/Creating-a-window.
+In order to know how to setup the project refer this [link](https://learnopengl.com/Getting-started/Creating-a-window).
