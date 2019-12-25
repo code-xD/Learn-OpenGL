@@ -2,3 +2,5 @@
 *.vcxproj
 /x64/
 *.lnk
+glad.c
+stb_image.h
